@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lindsay Richards",
+    "age": 36,
+    "email": "lindsayrichards@trasola.com",
+    "phone": "+1 (877) 446-2759",
+    "company": "ZYTRAX",
+    "address": "321 Roebling Street, Ferney, Ohio, 1987"
+  },
+  {
+    "name": "Verna Norton",
+    "age": 25,
+    "email": "vernanorton@zytrax.com",
+    "phone": "+1 (888) 453-3067",
+    "company": "EXOTERIC",
+    "address": "828 Sullivan Place, Wintersburg, Michigan, 2618"
+  },
+  {
+    "name": "Patterson Wilcox",
+    "age": 31,
+    "email": "pattersonwilcox@exoteric.com",
+    "phone": "+1 (843) 425-2543",
+    "company": "GEEKOLOGY",
+    "address": "666 Suydam Street, Vincent, Rhode Island, 7129"
+  },
+  {
+    "name": "Hess Potts",
+    "age": 37,
+    "email": "hesspotts@geekology.com",
+    "phone": "+1 (889) 482-3473",
+    "company": "VIDTO",
+    "address": "136 Kansas Place, Sylvanite, Minnesota, 2143"
+  },
+  {
+    "name": "Ware Dodson",
+    "age": 33,
+    "email": "waredodson@vidto.com",
+    "phone": "+1 (809) 496-3421",
+    "company": "ACCUPRINT",
+    "address": "255 Arion Place, Nadine, Massachusetts, 8987"
+  }
+]
